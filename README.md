@@ -12,7 +12,7 @@ My name is Sidhant Puntambekar. I am currently an undergraduate Computer Science
   - 🌱 I’m currently learning: Full stack development in TypeScript/JavaScript and R/Python data science
   - ⚡ Languages: C++, Java, Python, JavaScript, TypeScript, R, Matlab 
   - ⚡ Fun fact: I am a second degree black belt in Tae Kwon Do and have been training since I was seven years old.  
-  - ♟️ Chess: I am an avid chess player on Chess.com. My favorite openings are the Ruy Lopez and the Najdorf Sicilian. 
+  - ♟️ Chess: I am an avid chess player on Chess.com. I also maintain a chess blog on my personal website. My favorite openings are the Ruy Lopez and the Najdorf Sicilian. 
 
 <!--
 **SidhantPuntambekar/SidhantPuntambekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
