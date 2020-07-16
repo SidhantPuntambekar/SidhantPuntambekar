@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Sidhant Puntambekar. I am currently an undergraduate Computer Science and Molecular, Cellular, and Developmental Biology student at the University of Colorado Boulder. My personal research interests are at the intersection of using computational methods to solve RNA biological problems. Currently, I am a science research intern at the RNA Bioscience Initiative Informatics Fellows program at the University of Colorado Anschutz Medical School. Other programming interests of mine include object oriented programming and full stack development. I am also a part of the HackCU (CU Boulder Hackathon) Tech team and a member of the CU Robotic Boat and Robotic Mining clubs. 
+My name is Sidhant Puntambekar. I am currently an undergraduate Computer Science and Molecular, Cellular, and Developmental Biology student at the University of Colorado Boulder. My personal research interests are at the intersection of utilizing computational methods to solve RNA biological problems. Currently, I am a science research intern at the RNA Bioscience Initiative Informatics Fellows program at the University of Colorado Anschutz Medical School. Other programming interests of mine include object oriented programming and full stack development. I am also a part of the HackCU (CU Boulder Hackathon) Tech team and a member of the CU Robotic Boat and Robotic Mining clubs. 
 
 ## Where you can find me
  - Personal Website: https://sidhantpuntambekar.surge.sh
