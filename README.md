@@ -4,7 +4,7 @@ My name is Sidhant Puntambekar. I am an undergraduate Computer Science and Molec
 
 ## Where you can find me
  - Personal Website: https://sidhantpuntambekar.surge.sh
- - LinkedIn: https://www.linkedin.com/in/sidhant-puntambekar-0bb881130/
+ - LinkedIn: https://www.linkedin.com/in/sidhant-puntambekar
  - StackOverflow: https://stackoverflow.com/users/12055509/sidhant-puntambekar
 
 ## Personal Tid Bits
