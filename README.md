@@ -8,7 +8,7 @@ My name is Sidhant Puntambekar. I am an undergraduate Computer Science and Molec
  - StackOverflow: https://stackoverflow.com/users/12055509/sidhant-puntambekar
 
 ## Personal Tid Bits
-  - 🔭 I’m currently working on: A large meta-analysis of all public scRNA-seq data on NCBI GEO for both human and mouse organisms (RBI). A one stop shop hub website for the HackCU Hackathon.
+  - 🔭 I’m currently working on: An RShiny web application for the Clustifyr single cell RNA sequencing classification package. The HackCU 007 website.  
   - 🌱 I’m currently learning: Full stack development in TypeScript/JavaScript and R/Python data science
   - ⚡ Languages: C++, Java, Python, Full Stack (HTML, CSS, JavaScript/Typescript), R, Matlab 
   - ⚡ Fun fact: I am a second degree black belt in Tae Kwon Do and have been training since I was seven years old.  
