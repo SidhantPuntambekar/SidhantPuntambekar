@@ -13,6 +13,8 @@ My name is Sidhant Puntambekar. I am an undergraduate Computer Science and Molec
   - ⚡ Languages: C++, Java, Python, Full Stack (HTML, CSS, JavaScript/Typescript), R, Matlab 
   - ⚡ Fun fact: I am a second degree black belt in Tae Kwon Do and have been training since I was seven years old.  
  
+ [![Sidhant's GitHub stats](https://github-readme-stats.vercel.app/api?username=SidhantPuntambekar)](https://github.com/anuraghazra/github-readme-stats)
+ 
 <!--
 **SidhantPuntambekar/SidhantPuntambekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
