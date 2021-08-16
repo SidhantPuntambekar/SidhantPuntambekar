@@ -7,6 +7,7 @@ My name is Sidhant Puntambekar. I am an undergraduate Computer Science and Molec
  - LinkedIn: https://www.linkedin.com/in/sidhant-puntambekar
  - StackOverflow: https://stackoverflow.com/users/12055509/sidhant-puntambekar
 
+
 ## Personal Tid Bits
   - 🔭 I’m currently working on: An RShiny web application for the Clustifyr single cell RNA sequencing classification package. The HackCU 007 website.  
   - 🌱 I’m currently learning: Full stack development in TypeScript/JavaScript and R/Python data science
@@ -14,6 +15,7 @@ My name is Sidhant Puntambekar. I am an undergraduate Computer Science and Molec
   - ⚡ Fun fact: I am a second degree black belt in Tae Kwon Do and have been training since I was seven years old.  
  
  [![Sidhant's GitHub stats](https://github-readme-stats.vercel.app/api?username=SidhantPuntambekar)](https://github.com/anuraghazra/github-readme-stats)
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=peasant98&label=Profile%20views&color=0e75b6&style=classic" alt="y330" /> </p>
  
 <!--
 **SidhantPuntambekar/SidhantPuntambekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
