@@ -10,8 +10,8 @@ My name is Sidhant Puntambekar. I am an undergraduate Computer Science and Molec
 
 ## Personal Tid Bits
   - 🔭 I’m currently working on: An RShiny web application for the Clustifyr single cell RNA sequencing classification package. The HackCU 007 website.  
-  - 🌱 I’m currently learning: Full stack development in TypeScript/JavaScript and R/Python data science
-  - ⚡ Languages: C++, Java, Python, Full Stack (HTML, CSS, JavaScript/Typescript), R, Matlab 
+  - 🌱 I’m currently learning about: Artificial intelligence, database systems, functional programming, population genetics, infectious disease 
+  - ⚡ Languages: Python, C++, Java, Full Stack (HTML, CSS, JavaScript/Typescript), R, Matlab 
   - ⚡ Fun fact: I am a second degree black belt in Tae Kwon Do and have been training since I was seven years old.  
  
  [![Sidhant's GitHub stats](https://github-readme-stats.vercel.app/api?username=SidhantPuntambekar)](https://github.com/anuraghazra/github-readme-stats)
