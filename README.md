@@ -3,7 +3,7 @@
 My name is Sidhant Puntambekar. I am an undergraduate Computer Science and Molecular, Cellular, and Developmental Biology student at the University of Colorado Boulder. My personal research interests lie at the intersection of utilizing computational methods to streamline biological data analysis. Currently, I am working as a research intern at Harvard Medical School in the computational genomics lab of Dr. Shamil Sunyaev. I am also a bioinformatics undergraduate researcher at the RNA Bioscience Initiative Informatics Fellows Group at the University of Colorado Anschutz Medical School. Other programming interests of mine include object oriented programming, robotics, and full stack development. I am also a part of the HackCU (CU Boulder Hackathon) Tech team and a member of the CU Robotic Boat and Robotic Mining clubs. 
 
 ## Where you can find me
- - [Personal Website](https://sidhantpuntambekar.surge.sh)
+ - [Personal Website](https://sidhantpuntambekar.com)
  - [LinkedIn](https://www.linkedin.com/in/sidhant-puntambekar)
  - [StackOverflow](https://stackoverflow.com/users/12055509/sidhant-puntambekar)
 
