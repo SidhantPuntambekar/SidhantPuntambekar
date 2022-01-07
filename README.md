@@ -9,8 +9,8 @@ My name is Sidhant Puntambekar. I am an undergraduate Computer Science and Molec
 
 
 ## Personal Tid Bits
-  - 🔭 I’m currently working on: An RShiny web application for the Clustifyr single cell RNA sequencing classification package. The HackCU 007 website.  
-  - 🌱 I’m currently learning about: Artificial intelligence, database systems, functional programming, population genetics, infectious disease 
+  - 🔭 I’m currently working on: A classification model for the mutability of the human genome and the HackCU 8 website. 
+  - 🌱 I’m currently learning about: Operating Systems, Biological Networks, Object Oriented Analysis and Design, iOS Application Development 
   - ⚡ Languages: Python, C++, Java, Full Stack (HTML, CSS, JavaScript/Typescript), R, Matlab, Scala
   - ⚡ Fun fact: I am a second degree black belt in Tae Kwon Do and have been training since I was seven years old.  
  
