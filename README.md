@@ -14,6 +14,7 @@ My name is Sidhant Puntambekar. I am an undergraduate Computer Science, Computat
   - ⚡ Languages: Python, Java, C++, C, Full Stack (HTML, CSS, JavaScript/Typescript), R, Matlab, Scala
   - ⚡ Fun fact: I am a second degree black belt in Tae Kwon Do and have been training since I was seven years old.  
  
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SidhantPuntambekar&layout=compact)
  [![Sidhant's GitHub stats](https://github-readme-stats.vercel.app/api?username=SidhantPuntambekar)](https://github.com/anuraghazra/github-readme-stats)
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=peasant98&label=Profile%20views&color=0e75b6&style=classic" alt="y330" /> </p>
  
