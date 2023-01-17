@@ -10,7 +10,7 @@ My name is Sidhant Puntambekar. I am an undergraduate Computer Science, Computat
 
 ## Personal Tid Bits
   - 🔭 I’m currently working on: CancerSEEK (Exact Sciences) and HackCU Website 
-  - 🌱 I’m currently learning about: Machine Learning, Bioinformatics and Genomics, Basic graphics programming (ray tracing) 
+  - 🌱 I’m currently learning about: Machine Learning, Bioinformatics and Genomics, Dynamic Models in Molecular Biology
   - ⚡ Languages: Python, Java, C++, C, Full Stack (HTML, CSS, JavaScript/Typescript), R, Matlab, Scala
   - ⚡ Fun fact: I am a second degree black belt in Tae Kwon Do and have been training since I was seven years old.  
  
