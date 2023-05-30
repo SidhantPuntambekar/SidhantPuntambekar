@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Sidhant Puntambekar. I am an undergraduate Computer Science, Computational Biology, and Molecular, Cellular, and Developmental Biology student at the University of Colorado Boulder. My personal research interests lie at the intersection of utilizing computational methods to streamline biological data analysis. This summer, I will be interning at Exact Sciences helping to streamline their multiple cancer early detection (MCED) program as a computational biology and data science intern. Currently, I am also working as a research intern at Harvard Medical School in the computational genomics lab of Dr. Shamil Sunyaev. Previously, I was also a bioinformatics undergraduate researcher at the RNA Bioscience Initiative Informatics Fellows Group at the University of Colorado Anschutz Medical School. Other programming interests of mine include object oriented programming, robotics, and full stack development. I am also a part of the HackCU (CU Boulder Hackathon) Tech team and a member of the CU Robotic Boat and Robotic Mining clubs. 
+My name is Sidhant Puntambekar. I am an undergraduate Computer Science, Computational Biology, and Molecular, Cellular, and Developmental Biology student at the University of Colorado Boulder. My personal research interests lie at the intersection of utilizing computational methods to streamline biological data analysis. I am currently a bioinformatics analyst at Bionano Genomics in San Diego, California. During summer 2022, I interned at Exact Sciences helping to streamline and develop their multiple cancer early detection (MCED) program as a computational biology and data science intern. Previously, I worked as a research intern at Harvard Medical School in the computational genomics lab of Dr. Shamil Sunyaev. In the past, I was also a bioinformatics undergraduate researcher at the RNA Bioscience Initiative Informatics Fellows Group under Dr. Jay Hesselberth at the University of Colorado Anschutz Medical School. Other programming interests of mine include object oriented programming, robotics, and full stack development. I was also a part of the HackCU (CU Boulder Hackathon) Tech team serving as its director. 
 
 ## Where you can find me
  - [Personal Website](https://sidhantpuntambekar.com)
@@ -9,9 +9,9 @@ My name is Sidhant Puntambekar. I am an undergraduate Computer Science, Computat
 
 
 ## Personal Tid Bits
-  - 🔭 I’m currently working on: CancerSEEK (Exact Sciences) and HackCU Website 
-  - 🌱 I’m currently learning about: Machine Learning, Bioinformatics and Genomics, Dynamic Models in Molecular Biology
-  - ⚡ Languages: Python, Java, C++, C, Full Stack (HTML, CSS, JavaScript/Typescript), R, Matlab, Scala
+  - 🔭 I’m currently working on: Creating novel detection methods, algorithms, and validations for copy number variation detection in cytogenetics data through optical genome mapping and next generation sequencing.
+  - 🌱 I’m currently learning about: Machine Learning, Bioinformatics and Genomics, Cytogenetics, Perl software development
+  - ⚡ Languages: Python, Java, C++, C, Full Stack (HTML, CSS, JavaScript/Typescript), R, Matlab, Scala, Perl
   - ⚡ Fun fact: I am a second degree black belt in Tae Kwon Do and have been training since I was seven years old.  
  
  [![Sidhant's GitHub stats](https://github-readme-stats.vercel.app/api?username=SidhantPuntambekar)](https://github.com/anuraghazra/github-readme-stats)
