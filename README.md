@@ -14,9 +14,7 @@ My name is Sidhant Puntambekar. I am currently a bioinformatics analyst at Biona
   - ⚡ Languages: Python, Java, C++, C, Full Stack (HTML, CSS, JavaScript/Typescript), R, Matlab, Scala, Perl
   - ⚡ Fun fact: I am a second degree black belt in Tae Kwon Do and have been training since I was seven years old.  
  
- [![Sidhant's GitHub stats](https://github-readme-stats.vercel.app/api?username=SidhantPuntambekar)](https://github.com/anuraghazra/github-readme-stats)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SidhantPuntambekar&layout=compact)
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=peasant98&label=Profile%20views&color=0e75b6&style=classic" alt="y330" /> </p>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=SidhantPuntambekar&label=Profile%20views&color=0e75b6&style=classic" alt="y330" /> </p>
  
 <!--
 **SidhantPuntambekar/SidhantPuntambekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
